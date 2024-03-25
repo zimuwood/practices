@@ -1,0 +1,14 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºëğöÿÿÿÿÿ8ùš€«æ1
+_
+java:S6813'"BRemove this field injection and use constructor injection instead.(êæÄŞ8›€«æ1
+_
+java:S6813*"BRemove this field injection and use constructor injection instead.(êæÄŞ8›€«æ1
+_
+java:S6813-"BRemove this field injection and use constructor injection instead.(êæÄŞ8›€«æ1
+T
+java:S1135\"2Complete the task associated to this TODO comment.(£‹Œ€úÿÿÿÿ8”›€«æ1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Ì—£´æ1
+M
+java:S1128"+Remove this unused import 'java.util.UUID'.(ÀãÄ£úÿÿÿÿ8Í—£´æ1

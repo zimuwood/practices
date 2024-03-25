@@ -1,0 +1,10 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™‡à¹8Ú¾èä1
+k
+java:S22593"NA "NullPointerException" could be thrown; "originalFilename" is nullable here.(‘§¢§8ë¾èä1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ë¾èä1
+s
+java:S1128"QRemove this unused import 'com.aliyun.oss.common.auth.DefaultCredentialProvider'.(¨íŸıÿÿÿÿ8ö¾èä1
+{
+java:S1128"^Remove this unused import 'com.aliyun.oss.common.auth.EnvironmentVariableCredentialsProvider'.(¸÷¨¬8÷¾èä1

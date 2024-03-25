@@ -1,0 +1,47 @@
+{
+  "groups": [
+    {
+      "name": "aliyun.oss",
+      "type": "com.example.usercenter.Utils.AliOSSProperties",
+      "sourceType": "com.example.usercenter.Utils.AliOSSProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "aliyun.oss.a-r-n",
+      "type": "java.lang.String",
+      "sourceType": "com.example.usercenter.Utils.AliOSSProperties"
+    },
+    {
+      "name": "aliyun.oss.access-key-id",
+      "type": "java.lang.String",
+      "sourceType": "com.example.usercenter.Utils.AliOSSProperties"
+    },
+    {
+      "name": "aliyun.oss.access-key-secret",
+      "type": "java.lang.String",
+      "sourceType": "com.example.usercenter.Utils.AliOSSProperties"
+    },
+    {
+      "name": "aliyun.oss.bucket-name",
+      "type": "java.lang.String",
+      "sourceType": "com.example.usercenter.Utils.AliOSSProperties"
+    },
+    {
+      "name": "aliyun.oss.endpoint",
+      "type": "java.lang.String",
+      "sourceType": "com.example.usercenter.Utils.AliOSSProperties"
+    },
+    {
+      "name": "aliyun.oss.ram-access-key-i-d",
+      "type": "java.lang.String",
+      "sourceType": "com.example.usercenter.Utils.AliOSSProperties"
+    },
+    {
+      "name": "aliyun.oss.ram-access-key-secret",
+      "type": "java.lang.String",
+      "sourceType": "com.example.usercenter.Utils.AliOSSProperties"
+    }
+  ],
+  "hints": []
+}

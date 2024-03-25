@@ -1,0 +1,10 @@
+
+j
+java:S1192@"MDefine a constant instead of duplicating this literal "user_account" 3 times.(Îİâî8®ÚĞıä1
+Z
+java:S4973›"<Strings and Boxed types should be compared using "equals()".(­À·á8°ÚĞıä1
+Z
+java:S4973 "<Strings and Boxed types should be compared using "equals()".(úà‘‚8±ÚĞıä1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áçãÙ8³ÚĞıä1
+_
+java:S6813""BRemove this field injection and use constructor injection instead.(êæÄŞ8ÈÚĞıä1

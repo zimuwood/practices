@@ -1,0 +1,17 @@
+-------------------------------------------------------------------------------
+Test set: com.example.usercenter.Service.UserServiceTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 4.992 s <<< FAILURE! -- in com.example.usercenter.Service.UserServiceTest
+com.example.usercenter.Service.UserServiceTest.userRegister -- Time elapsed: 0.066 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <-1> but was: <17>
+	at org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:151)
+	at org.junit.jupiter.api.AssertionFailureBuilder.buildAndThrow(AssertionFailureBuilder.java:132)
+	at org.junit.jupiter.api.AssertEquals.failNotEqual(AssertEquals.java:197)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:166)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:161)
+	at org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:632)
+	at com.example.usercenter.Service.UserServiceTest.userRegister(UserServiceTest.java:42)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+
