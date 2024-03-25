@@ -1,0 +1,37 @@
+export default [
+  {
+    path: '/user',
+    layout: false,
+    routes: [
+      {name: '登录', path: '/user/login', component: './user/Login'},
+      {name: '注册', path: '/user/register', component: './user/Register'},
+      {component: './404'},
+    ],
+  },
+  { path: '/welcome', name: '欢迎', icon: 'smile', component: './Welcome' },
+  {
+    path: '/user-center',
+    name: '用户中心',
+    component: './UserCenter',
+    hideInMenu: true,
+  },
+  {
+    path: '/user-settings',
+    name: '用户中心',
+    component: './UserSettings',
+    hideInMenu: true,
+  },
+  {
+    path: '/admin',
+    name: '管理页',
+    icon: 'crown',
+    access: 'canAdmin',
+    component: './Admin',
+    routes: [
+      { path: '/admin/user-manage', name: '用户管理', icon: 'smile', component: './Admin/UserManage' },
+      { component: './404' },
+    ],
+  },
+  { path: '/', redirect: '/welcome' },
+  { component: './404' },
+];
