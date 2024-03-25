@@ -3,6 +3,6 @@ This repository contains many projects. They maybe simple or basic, but I'll lea
 If you can provide me with some suggestions about my projects or other aspects, I'll be very grateful.🙇‍
 
 ## user-center
-前端(Front-end):Ant Design Pro + Ant Design Components + React + Umi + Umi Requests + Html + Css + javascript
-后端(Back-end):Spring + SpringBoot + SpringMVC + Mybatis + MybatisPlus + MySQL + junit + maven
+前端(Front-end)(myapp): Ant Design Pro + Ant Design Components + React + Umi + Umi Requests + Html + Css + javascript
+后端(Back-end)(user-center): Spring + SpringBoot + SpringMVC + Mybatis + MybatisPlus + MySQL + junit + maven
 部署(Deployment):nginx + springboot
