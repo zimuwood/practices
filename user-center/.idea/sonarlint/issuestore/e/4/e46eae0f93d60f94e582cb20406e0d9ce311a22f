@@ -1,0 +1,6 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨±µø8ğÎĞ¶ä1
+n
+java:S1128"LRemove this unused import 'org.springframework.web.multipart.MultipartFile'.(ôŸœÿÿÿÿÿ8µ¥¹Ûä1
+F
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8ŞáÁä1

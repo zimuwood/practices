@@ -1,0 +1,5 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™‡à¹8£ÊÁéä1
+z	java:S116"YRename this field "RamAccessKeyID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ú¥èûÿÿÿÿ8¥ÊÁéä1
+~	java:S116"]Rename this field "RamAccessKeySecret" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö©áÂûÿÿÿÿ8§ÊÁéä1
+o	java:S116"NRename this field "ARN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«•†ùÿÿÿÿÿ8©ÊÁéä1
